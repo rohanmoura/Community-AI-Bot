@@ -1,1 +1,6 @@
-# This file will admin commands like sending announcements or scheduled updates.
+# This file will handle admin commands (e.g., announcements, scheduled updates)
+
+from telegram import Update
+from telegram.ext import ContextTypes
+
+# Admin commands will be added here in the future
