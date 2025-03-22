@@ -1,0 +1,6 @@
+# All required Python packages will be listed here.
+
+python-telegram-bot
+fastapi
+pymongo
+apscheduler

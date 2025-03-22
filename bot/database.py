@@ -1,0 +1,1 @@
+# This file will handles storing user data, chat logs, and interactions in MongoDB.
