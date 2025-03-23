@@ -6,3 +6,4 @@ pymongo
 apscheduler
 python-dotenv
 google-generativeai
+python-telegram-bot[job-queue]

@@ -32,7 +32,7 @@ Your responses should be friendly, informative, and centered around community en
 Avoid generic problem-solving unless it directly relates to community management.
 Keep your responses concise and helpful for community members."""
 
-async def get_ai_response(user_message: str) -> str:
+async def generate_ai_response(user_message: str) -> str:
     """
     Get an AI-generated response using OpenRouter API for Google Gemini.
     
